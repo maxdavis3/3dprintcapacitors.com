@@ -1,0 +1,183 @@
+baseURL = "https://3dprintcapacitors.com/"
+languageCode = "en-us"
+title = "3D Print Capacitors"
+theme = "printwire"
+
+[params]
+tagline       = "Additive manufacturing of capacitors, sensors, and passive electronic components for next-generation flexible and embedded electronics."
+description   = "3D Print Capacitors covers additive electronics — printed capacitors, inductors, and passive components for flexible electronics, wearables, and embedded circuit manufacturing."
+keywords      = "3D printed capacitors, printed electronics, additive electronics, flexible capacitor, printed inductor, embedded electronics AM"
+logoEmoji     = "⚡"
+contactEmail  = "maxdavisgroup@gmail.com"
+footerServicesLabel = "Services"
+
+colorPrimary      = "#00d9ff"
+colorPrimaryDark  = "#00a8cc"
+colorPrimaryLight = "#33e4ff"
+colorBgDark       = "#050714"
+colorBgSection    = "#080c1e"
+colorBgCard       = "#0d1228"
+colorBgCardHover  = "#121832"
+
+fontPrimary   = "Orbitron"
+fontSecondary = "Source+Sans+3"
+
+newsFallbackImages = ["https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80"]
+
+heroEyebrow  = "Printed Electronics"
+heroTitle    = "3D Print <em>Capacitors</em>"
+heroSubtitle = "Additive manufacturing of capacitors, sensors, and passive electronic components for next-generation flexible and embedded electronics."
+heroCta1Text = "Explore Services"
+heroCta1URL  = "/services/"
+heroCta2Text = "Get a Quote"
+heroCta2URL  = "/contact/"
+heroImage    = "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80"
+
+overviewTitle   = "Additively Manufactured Electronics"
+overviewText    = "From aerosol jet printed capacitors to 3D embedded passive components — additive manufacturing is entering the electronics supply chain."
+overviewBtnText = "View Services"
+overviewBtnURL  = "/services/"
+
+applicationsTitle = "Industries We Serve"
+servicesTitle    = "3D Print Capacitors Services"
+servicesSubtitle = "Additive manufacturing of capacitors, sensors, and passive electronic components for next-generation flexible and embedded electronics."
+clusterTitle = "Related 3D Printing Resources"
+newsletterTitle = "Industry Updates to Your Inbox"
+newsletterText  = "Research breakthroughs and industry news — delivered monthly."
+ctaTitle   = "Start Your Project"
+ctaText    = "Additive manufacturing of capacitors, sensors, and passive electronic components for next-generation flexible and embedded electronics."
+ctaBtnText = "Get in Touch"
+ctaBtnURL  = "/contact/"
+
+[[params.stats]]
+count  = 10
+suffix = "pF–10µF"
+label  = "Capacitance Range (Printed)"
+
+[[params.stats]]
+count  = 50
+suffix = "µm"
+label  = "Electrode Resolution"
+
+[[params.stats]]
+count  = 1.5
+suffix = "B+"
+label  = "Printed Electronics Market"
+
+[[params.stats]]
+count  = 40
+suffix = "%"
+label  = "Size Reduction vs PCB"
+
+
+[[params.applications]]
+title       = "Flexible Electronics"
+description = "Printed capacitors and sensors on flexible substrates for wearables and conformable devices."
+image       = "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80"
+
+[[params.applications]]
+title       = "Embedded Components"
+description = "Capacitors and inductors printed directly into PCB structures or composite parts."
+image       = "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80"
+
+[[params.applications]]
+title       = "RF & Antenna Printing"
+description = "Custom antenna geometries and RF components printed in silver nanoparticle ink."
+image       = "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80"
+
+[[params.applications]]
+title       = "IoT Sensor Devices"
+description = "Fully printed sensor nodes with capacitive, resistive, and inductive elements."
+image       = "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80"
+
+
+[[params.servicesPreview]]
+icon        = "⚡"
+title       = "Printed Capacitor Production"
+description = "Aerosol jet and inkjet printing of planar capacitors with dielectric and electrode layers on flexible substrates."
+
+[[params.servicesPreview]]
+icon        = "◎"
+title       = "Embedded Electronics"
+description = "Passive components printed directly into FDM or SLA parts — no PCB required for simple sensor nodes."
+
+[[params.servicesPreview]]
+icon        = "📡"
+title       = "RF Component Printing"
+description = "Silver nanoparticle ink printing of antennas, coils, and RF filters on rigid and flexible substrates."
+
+[[params.servicesPreview]]
+icon        = "🔬"
+title       = "Prototyping & R&D"
+description = "Rapid prototyping of printed electronic components for research, product development, and proof-of-concept."
+
+
+[[params.services]]
+name        = "Printed Capacitor Production"
+description        = "Aerosol jet and inkjet printing of planar capacitors with dielectric and electrode layers on flexible substrates."
+icon        = "⚡"
+image        = "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80"
+
+[[params.services]]
+name        = "Embedded Electronics"
+description        = "Passive components printed directly into FDM or SLA parts — no PCB required for simple sensor nodes."
+icon        = "◎"
+image        = "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80"
+
+[[params.services]]
+name        = "RF Component Printing"
+description        = "Silver nanoparticle ink printing of antennas, coils, and RF filters on rigid and flexible substrates."
+icon        = "📡"
+image        = "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80"
+
+[[params.services]]
+name        = "Prototyping & R&D"
+description        = "Rapid prototyping of printed electronic components for research, product development, and proof-of-concept."
+icon        = "🔬"
+image        = "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80"
+
+
+[[params.clusterLinks]]
+name        = "3dprintcircuitry.com"
+url         = "https://3dprintcircuitry.com"
+description = "Electronics & circuitry AM"
+
+[[params.clusterLinks]]
+name        = "dmls3d.com"
+url         = "https://dmls3d.com"
+description = "Metal 3D printing"
+
+[[params.clusterLinks]]
+name        = "sendcutship.com"
+url         = "https://sendcutship.com"
+description = "Custom manufacturing"
+
+[[params.clusterLinks]]
+name        = "3dprintmetal.com"
+url         = "https://3dprintmetal.com"
+description = "Metal 3D printing"
+
+[[menu.main]]
+name = "Home"
+url  = "/"
+weight = 1
+[[menu.main]]
+name = "About"
+url  = "/about/"
+weight = 2
+[[menu.main]]
+name = "Articles"
+url  = "/articles/"
+weight = 3
+[[menu.main]]
+name = "Services"
+url  = "/services/"
+weight = 4
+[[menu.main]]
+name = "Contact"
+url  = "/contact/"
+weight = 5
+[[menu.main]]
+name = "Advertise"
+url  = "/advertise/"
+weight = 6
