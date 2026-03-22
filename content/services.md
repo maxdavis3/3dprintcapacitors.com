@@ -1,0 +1,20 @@
+---
+title: "3D Print Capacitors Services"
+type: "page"
+layout: "services"
+description: "Professional 3D printed capacitors and electronic components services — Additive manufacturing of capacitors, sensors, and passive electronic components for next-generation flexible and embedded electronics."
+heroImage: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80"
+process:
+  - step: "01"
+    title: "Consultation"
+    text: "We review your requirements, material specs, tolerances, and production volume to recommend the optimal process."
+  - step: "02"
+    title: "Design Review"
+    text: "DfAM analysis ensures your design is optimised for the chosen process — wall thickness, support strategy, and feature resolution."
+  - step: "03"
+    title: "Production"
+    text: "Parts produced to specification with full process monitoring, quality control, and material traceability."
+  - step: "04"
+    title: "Delivery"
+    text: "Inspection, finishing, and delivery with full documentation and material certification where required."
+---
